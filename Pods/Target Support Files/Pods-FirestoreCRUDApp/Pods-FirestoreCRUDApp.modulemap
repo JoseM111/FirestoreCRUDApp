@@ -1,0 +1,6 @@
+framework module Pods_FirestoreCRUDApp {
+  umbrella header "Pods-FirestoreCRUDApp-umbrella.h"
+
+  export *
+  module * { export * }
+}
